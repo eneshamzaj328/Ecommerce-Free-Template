@@ -40,8 +40,6 @@ window.onload = () => {
         document.querySelector(".loader").style = "display: none !important;opacity: 0;z-index: -1;";
     }, 700);
 
-    localStorage.setItem("mode", "light-mode");
-
     // Dark & Light Mode -> On Load
     let modeOnload = localStorage.getItem("mode");
     checkBgMode(modeOnload);
