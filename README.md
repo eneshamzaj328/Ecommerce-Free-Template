@@ -20,4 +20,11 @@ Contact
 * 3sec Welcome Banner
 
 Template is 100% Free
+
 By: Enes Hamzaj
+
+
+
+Quick Look to Template:
+
+![quick-look](https://user-images.githubusercontent.com/48931439/165026253-41b66765-febf-45b3-9f00-6e07af821ac8.png)
